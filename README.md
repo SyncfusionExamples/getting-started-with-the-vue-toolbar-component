@@ -3,7 +3,7 @@ A quick-start Vue project showing how to start with the Syncfusion Vue Toolbar C
 
 Vue Toolbar is a feature-rich component that provides an interface for selecting a command from a collection of commands. Its features include different orientations, responsive modes (scrollable and pop-up), templating, and button alignment based on priority.
 
-It allows customizing the command appearance with HTML elements like images, text buttons, toggle buttons, select boxes, text boxes, and autocomplete. This helps you make toolbar search boxes and toolbar menu-like applications. And provides data binding support, rendered based on a JSON array collection of properties such as text, type, and alignment. Data binding can be achieved by forming an array collection of items.
+It allows customizing the component appearance with HTML elements like images, text buttons, toggle buttons, select boxes, text boxes, and autocomplete. This helps you make toolbar search boxes and toolbar menu-like applications. And provides data binding support, rendered based on a JSON array collection of properties such as text, type, and alignment. Data binding can be achieved by forming an array collection of items.
 
 
 Documentation: [https://ej2.syncfusion.com/vue/documentation/listview/getting-started](https://ej2.syncfusion.com/vue/documentation/toolbar/getting-started)
